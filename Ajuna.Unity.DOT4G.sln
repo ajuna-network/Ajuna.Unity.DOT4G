@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ajuna.NetApiExt", "Ajuna.Ne
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ajuna.Unity.Test", "Ajuna.Unity.Test\Ajuna.Unity.Test.csproj", "{CA45BF41-9C0D-4FAA-B421-DD27FF223FDB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ajuna.NetWallet", "..\..\Ajuna NET API DEV\Ajuna.NetWallet\Ajuna.NetWallet\Ajuna.NetWallet.csproj", "{4902FA8F-5E82-45EE-96D7-AB2E4B480861}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{CA45BF41-9C0D-4FAA-B421-DD27FF223FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA45BF41-9C0D-4FAA-B421-DD27FF223FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA45BF41-9C0D-4FAA-B421-DD27FF223FDB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4902FA8F-5E82-45EE-96D7-AB2E4B480861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4902FA8F-5E82-45EE-96D7-AB2E4B480861}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4902FA8F-5E82-45EE-96D7-AB2E4B480861}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4902FA8F-5E82-45EE-96D7-AB2E4B480861}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

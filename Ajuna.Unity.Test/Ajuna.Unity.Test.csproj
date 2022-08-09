@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Ajuna NET API DEV\Ajuna.NetWallet\Ajuna.NetWallet\Ajuna.NetWallet.csproj" />
     <ProjectReference Include="..\Ajuna.UnityInterface\Ajuna.UnityInterface.csproj" />
   </ItemGroup>
 
